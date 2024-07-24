@@ -1,3 +1,3 @@
- 👋 Hi, I’m @mhasheem! Exploring and mastering in -> Webdev | Data Science | Machine Learning | App development 
+ 👋 Hi, I’m @mhasheem! Delving into -> Webdev | Data Science | Machine Learning | App development 
 
 
