@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 About Me:
 Hi, I’m @mhasheem! Delving into -> Web dev | Data Science | Machine Learning | App development<br>I am looking forward to being a part of open-source projects! <br>Let's connect!
 
 
